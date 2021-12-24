@@ -1,10 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
 
-const HomePage = () => {
+const LandingPage = () => {
   return <Container />;
 };
 
-export default HomePage;
+export default LandingPage;
 
 const Container = styled.div``;
