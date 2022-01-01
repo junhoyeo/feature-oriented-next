@@ -1,6 +1,9 @@
 # Feature oriented Next.js
 This proposes a truly feature-oriented structure to Next.js.
 
+## 🪂 Looking for an module?
+- [devxoul/next-route-map](https://github.com/devxoul/next-route-map)
+
 ## 🔋 Included
 - [TypeScript](https://github.com/microsoft/TypeScript)
 - [styled-components](https://github.com/styled-components/styled-components)
